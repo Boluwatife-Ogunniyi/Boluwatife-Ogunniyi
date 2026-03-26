@@ -21,7 +21,7 @@ I bring a unique combination of analytical rigour, business insight, and sustain
 - Identified key gaps, challenges, and opportunities across Nigerian businesses  
 - Contributed to an industry report published by NECA  
 
-👉 [View Project](https://github.com/yourusername/esg-analysis-nigeria)
+👉 [View Project](https://github.com/Boluwatife-Ogunniyi/ESG-State-of-Play-in-Nigeria)
 
 ---
 
